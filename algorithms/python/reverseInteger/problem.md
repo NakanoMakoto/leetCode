@@ -5,7 +5,7 @@ https://leetcode.com/problems/reverse-integer/
 Makoto Nakano
 
 ## Date
-2020/05/26
+2020/05/05
 
 ## problem  
 Given a 32-bit signed integer, reverse digits of an integer.
