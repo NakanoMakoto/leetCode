@@ -1,31 +1,26 @@
 ## source
-https://leetcode.com/problems/palindrome-number/
+https://leetcode.com/problems/longest-common-prefix/
 
 ## author
 Makoto Nakano
 
 ## Date
-2020/05/06
+2020/05/07
 
 ## problem  
-Determine whether an integer is a palindrome. An integer is a palindrome when it reads the same backward as forward.
+Write a function to find the longest common prefix string amongst an array of strings.
+
+If there is no common prefix, return an empty string "".
 
 ## example
 <code>
-Input: 121
-Output: true
+Input: ["flower","flow","flight"]
+Output: "fl"
 </code>
 <br />
 
 <code>
-Input: -121
-Output: false
-Explanation: From left to right, it reads -121. From right to left, it becomes 121-. Therefore it is not a palindrome.
-</code>
-<br />
-
-<code>
-Input: 10
-Output: false
-Explanation: Reads 01 from right to left. Therefore it is not a palindrome.
+Input: ["dog","racecar","car"]
+Output: ""
+Explanation: There is no common prefix among the input strings.
 </code>
