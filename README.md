@@ -8,3 +8,4 @@ LeetCodeでの回答などを載せる予定です。
 |9|[PalindromeNumber](https://leetcode.com/problems/palindrome-number/) | [problem](./algorithms/python/palindromeNumber/problem.md)| [python](./algorithms/python/palindromeNumber/solve.py)|Easy|
 |13|[RomantoInteger](https://leetcode.com/problems/roman-to-integer/) | [problem](./algorithms/python/romantoInteger/problem.md)| [python](./algorithms/python/romantoInteger/solve.py)|Easy|
 |14|[LongestCommonPrefix](https://leetcode.com/problems/longest-common-prefix/) | [problem](./algorithms/python/longestCommonPrefix/problem.md)| [python](./algorithms/python/longestCommonPrefix/solve.py)|Easy|
+|20|[ValidParentheses](https://leetcode.com/problems/valid-parentheses/) | [problem](./algorithms/python/validParentheses/problem.md)| [python](./algorithms/python/validParentheses/solve.py)|Easy|
