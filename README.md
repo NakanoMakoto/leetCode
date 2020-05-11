@@ -10,3 +10,4 @@ LeetCodeでの回答などを載せる予定です。
 |14|[LongestCommonPrefix](https://leetcode.com/problems/longest-common-prefix/) | [problem](./algorithms/python/longestCommonPrefix/problem.md)| [python](./algorithms/python/longestCommonPrefix/solve.py)|Easy|
 |20|[ValidParentheses](https://leetcode.com/problems/valid-parentheses/) | [problem](./algorithms/python/validParentheses/problem.md)| [python](./algorithms/python/validParentheses/solve.py)|Easy|
 |21|[MergeTwoSortedLists](https://leetcode.com/problems/merge-two-sorted-lists/) | [problem](./algorithms/python/mergeTwoSortedLists/problem.md)| [python](./algorithms/python/mergeTwoSortedLists/solve.py)|Easy|
+|26|[RemoveDuplicatesFromSortedArray](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [problem](./algorithms/python/removeDuplicatesFromSortedArray/problem.md)| [python](./algorithms/python/removeDuplicatesFromSortedArray/solve.py)|Easy|
